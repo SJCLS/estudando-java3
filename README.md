@@ -1,8 +1,6 @@
-# Programa feito para ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar 
-#do usuário um mês e mostrar qual foi o salário do funcionário nesse mês
+# Programa feito para ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar do usuário um mês e mostrar qual foi o salário do funcionário nesse mês
 #
 # Conforme exemplo abaixo  
-#
 #Enter department's name: Design
 #Enter worker data:
 #Name: Alex
